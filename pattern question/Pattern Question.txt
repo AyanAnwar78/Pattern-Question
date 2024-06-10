@@ -1,6 +1,6 @@
             // PATTTERN  //
 
-//   //any safe of rectangle and square
+//   //any shape of rectangle and square
 //   //          ******          
 //   //          ******
 //   //          ******
